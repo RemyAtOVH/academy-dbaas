@@ -1,0 +1,3 @@
+export OVH_APPLICATION_KEY=Your_key_application_OVH(or_AK)
+export OVH_APPLICATION_SECRET=Your_secret_application_key_OVH(or_AS)
+export OVH_CONSUMER_KEY=Your_token(or_CK)
